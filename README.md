@@ -75,7 +75,7 @@ This repository includes the following artifacts:
 
 3. Manually add required JAR files:
 
-= Download the following libraries from https://mvnrepository.com/:
+- Download the following libraries from https://mvnrepository.com/:
 
   -selenium-java
 
