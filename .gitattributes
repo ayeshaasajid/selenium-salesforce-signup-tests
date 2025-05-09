@@ -1,0 +1,12 @@
+# Handle line endings
+* text=auto
+
+# Treat Java files as text
+*.java text
+
+# Treat XML and HTML files as text
+*.xml text
+*.html text
+
+# Mark test output files as binary (skip diffs)
+test-output/* binary
