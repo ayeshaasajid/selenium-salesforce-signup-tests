@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="27" passed="27" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-09T19:33:43 CST" name="Functional and Negative Test Suite" finished-at="2025-04-09T19:39:06 CST" duration-ms="323014">
+    <groups>
+      <group name="Recaptchareset">
+        <method signature="NegativeTestCases.withoutrecaptcha()[pri:17, instance:Tests.NegativeTestCases@21129f1f]" name="withoutrecaptcha" class="Tests.NegativeTestCases"/>
+        <method signature="NegativeTestCases.withoutrecaptchaerror()[pri:18, instance:Tests.NegativeTestCases@21129f1f]" name="withoutrecaptchaerror" class="Tests.NegativeTestCases"/>
+      </group> <!-- Recaptchareset -->
+    </groups>
+    <test started-at="2025-04-09T19:33:43 CST" name="C:/Users/PMLS/Desktop/DevelopersSalesForce Login Automation" finished-at="2025-04-09T19:39:06 CST" duration-ms="323014">
+      <class name="Tests.NegativeTestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:08 CST" name="setup" finished-at="2025-04-09T19:36:49 CST" duration-ms="41588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidinputfirstname()[pri:1, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:49 CST" name="invalidinputfirstname" finished-at="2025-04-09T19:36:51 CST" duration-ms="1446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidinputfirstname -->
+        <test-method signature="invalidfirstnameerror()[pri:2, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:51 CST" name="invalidfirstnameerror" finished-at="2025-04-09T19:36:51 CST" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidfirstnameerror -->
+        <test-method signature="invalidemail()[pri:3, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:51 CST" name="invalidemail" finished-at="2025-04-09T19:36:52 CST" duration-ms="1255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidemail -->
+        <test-method signature="invalidemailerror()[pri:4, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:52 CST" name="invalidemailerror" finished-at="2025-04-09T19:36:52 CST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidemailerror -->
+        <test-method signature="invalidlastname()[pri:5, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:52 CST" name="invalidlastname" finished-at="2025-04-09T19:36:54 CST" duration-ms="1239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidlastname -->
+        <test-method signature="invalidlastnamerror()[pri:6, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:54 CST" name="invalidlastnamerror" finished-at="2025-04-09T19:36:54 CST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidlastnamerror -->
+        <test-method signature="invalidoptionerror()[pri:8, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:54 CST" name="invalidoptionerror" finished-at="2025-04-09T19:36:54 CST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidoptionerror -->
+        <test-method signature="invalidoptionincountryname()[pri:9, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:54 CST" name="invalidoptionincountryname" finished-at="2025-04-09T19:36:54 CST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidoptionincountryname -->
+        <test-method signature="leavingfirstnameempty()[pri:9, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:54 CST" name="leavingfirstnameempty" finished-at="2025-04-09T19:36:54 CST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leavingfirstnameempty -->
+        <test-method signature="firstnameemptyerror()[pri:10, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:54 CST" name="firstnameemptyerror" finished-at="2025-04-09T19:36:54 CST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstnameemptyerror -->
+        <test-method signature="leavinglastnameempty()[pri:11, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:54 CST" name="leavinglastnameempty" finished-at="2025-04-09T19:36:54 CST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leavinglastnameempty -->
+        <test-method signature="lastnameemptyerror()[pri:12, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:54 CST" name="lastnameemptyerror" finished-at="2025-04-09T19:36:54 CST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastnameemptyerror -->
+        <test-method signature="leavingjobtitleempty()[pri:13, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:54 CST" name="leavingjobtitleempty" finished-at="2025-04-09T19:36:54 CST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leavingjobtitleempty -->
+        <test-method signature="jobtitleemptyerror()[pri:14, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:54 CST" name="jobtitleemptyerror" finished-at="2025-04-09T19:36:54 CST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jobtitleemptyerror -->
+        <test-method signature="signupwithoutagreement()[pri:15, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:36:54 CST" name="signupwithoutagreement" finished-at="2025-04-09T19:37:21 CST" duration-ms="26897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupwithoutagreement -->
+        <test-method signature="withoutsignupcheckingerror()[pri:16, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:37:21 CST" name="withoutsignupcheckingerror" finished-at="2025-04-09T19:37:21 CST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withoutsignupcheckingerror -->
+        <test-method is-config="true" signature="clearingrecaptcha()[pri:0, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:37:21 CST" name="clearingrecaptcha" finished-at="2025-04-09T19:38:16 CST" duration-ms="54289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearingrecaptcha -->
+        <test-method signature="withoutrecaptcha()[pri:17, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:38:16 CST" name="withoutrecaptcha" finished-at="2025-04-09T19:38:24 CST" duration-ms="8192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withoutrecaptcha -->
+        <test-method is-config="true" signature="clearingrecaptcha()[pri:0, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:38:24 CST" name="clearingrecaptcha" finished-at="2025-04-09T19:39:05 CST" duration-ms="40951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearingrecaptcha -->
+        <test-method signature="withoutrecaptchaerror()[pri:18, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:39:05 CST" name="withoutrecaptchaerror" finished-at="2025-04-09T19:39:05 CST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withoutrecaptchaerror -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.NegativeTestCases@21129f1f]" started-at="2025-04-09T19:39:05 CST" name="teardown" finished-at="2025-04-09T19:39:06 CST" duration-ms="607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.NegativeTestCases -->
+      <class name="Tests.Functionaltestcases">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:Tests.Functionaltestcases@3370f42]" started-at="2025-04-09T19:33:42 CST" name="setupReport" finished-at="2025-04-09T19:33:43 CST" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.Functionaltestcases@3370f42]" started-at="2025-04-09T19:33:43 CST" name="setup" finished-at="2025-04-09T19:35:32 CST" duration-ms="109232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="inputfirstname()[pri:1, instance:Tests.Functionaltestcases@3370f42]" started-at="2025-04-09T19:35:32 CST" name="inputfirstname" finished-at="2025-04-09T19:35:33 CST" duration-ms="1281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputfirstname -->
+        <test-method signature="inputlastname()[pri:2, instance:Tests.Functionaltestcases@3370f42]" started-at="2025-04-09T19:35:33 CST" name="inputlastname" finished-at="2025-04-09T19:35:34 CST" duration-ms="1188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputlastname -->
+        <test-method signature="inputjobtitle()[pri:3, instance:Tests.Functionaltestcases@3370f42]" started-at="2025-04-09T19:35:34 CST" name="inputjobtitle" finished-at="2025-04-09T19:35:35 CST" duration-ms="1123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputjobtitle -->
+        <test-method signature="inputemail()[pri:4, instance:Tests.Functionaltestcases@3370f42]" started-at="2025-04-09T19:35:35 CST" name="inputemail" finished-at="2025-04-09T19:35:37 CST" duration-ms="1127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputemail -->
+        <test-method signature="inputcompanyname()[pri:5, instance:Tests.Functionaltestcases@3370f42]" started-at="2025-04-09T19:35:37 CST" name="inputcompanyname" finished-at="2025-04-09T19:35:38 CST" duration-ms="1172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputcompanyname -->
+        <test-method signature="selectcountryname()[pri:6, instance:Tests.Functionaltestcases@3370f42]" started-at="2025-04-09T19:35:38 CST" name="selectcountryname" finished-at="2025-04-09T19:35:38 CST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectcountryname -->
+        <test-method signature="checkingsalesforceagreement()[pri:7, instance:Tests.Functionaltestcases@3370f42]" started-at="2025-04-09T19:35:38 CST" name="checkingsalesforceagreement" finished-at="2025-04-09T19:35:38 CST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingsalesforceagreement -->
+        <test-method signature="recaptcha()[pri:8, instance:Tests.Functionaltestcases@3370f42]" started-at="2025-04-09T19:35:38 CST" name="recaptcha" finished-at="2025-04-09T19:35:58 CST" duration-ms="20247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recaptcha -->
+        <test-method signature="clickingsignupbutton()[pri:9, instance:Tests.Functionaltestcases@3370f42]" started-at="2025-04-09T19:35:58 CST" name="clickingsignupbutton" finished-at="2025-04-09T19:36:08 CST" duration-ms="9231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickingsignupbutton -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.Functionaltestcases@3370f42]" started-at="2025-04-09T19:36:08 CST" name="teardown" finished-at="2025-04-09T19:36:08 CST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="tearDownReport()[pri:0, instance:Tests.Functionaltestcases@3370f42]" started-at="2025-04-09T19:39:06 CST" name="tearDownReport" finished-at="2025-04-09T19:39:06 CST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownReport -->
+      </class> <!-- Tests.Functionaltestcases -->
+    </test> <!-- C:/Users/PMLS/Desktop/DevelopersSalesForce Login Automation -->
+  </suite> <!-- Functional and Negative Test Suite -->
+</testng-results>

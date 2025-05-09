@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Functional and Negative Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/PMLS/Desktop/DevelopersSalesForce Login Automation">
+        <classes>
+            <class name="Tests.Functionaltestcases">
+                <methods>
+                    <include name="inputfirstname"/>
+                    <include name="inputlastname"/>
+                    <include name="inputjobtitle"/>
+                    <include name="inputemail"/>
+                    <include name="inputcompanyname"/>
+                    <include name="selectcountryname"/>
+                    <include name="checkingsalesforceagreement"/>
+                    <include name="recaptcha"/>
+                    <include name="clickingsignupbutton"/>
+                </methods>
+            </class>
+            <class name="Tests.NegativeTestCases">
+                <methods>
+                    <include name="invalidinputfirstname"/>
+                    <include name="invalidfirstnameerror"/>
+                    <include name="invalidemail"/>
+                    <include name="invalidemailerror"/>
+                    <include name="invalidlastname"/>
+                    <include name="invalidlastnamerror"/>
+                    <include name="invalidoptionincountryname"/>
+                    <include name="invalidoptionerror"/>
+                    <include name="leavingfirstnameempty"/>
+                    <include name="firstnameemptyerror"/>
+                    <include name="leavinglastnameempty"/>
+                    <include name="lastnameemptyerror"/>
+                    <include name="leavingjobtitleempty"/>
+                    <include name="jobtitleemptyerror"/>
+                    <include name="signupwithoutagreement"/>
+                    <include name="withoutsignupcheckingerror"/>
+                    <include name="clearingrecaptcha"/>
+                    <include name="withoutrecaptcha"/>
+                    <include name="withoutrecaptchaerror"/>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Functional and Negative Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="C:/Users/PMLS/Desktop/DevelopersSalesForce Login Automation(failed)">
+    <classes>
+      <class name="Tests.NegativeTestCases">
+        <methods>
+          <include name="tearDownReport"/>
+          <include name="invalidoptionincountryname"/>
+          <include name="teardown"/>
+          <include name="setupReport"/>
+          <include name="clearingrecaptcha"/>
+          <include name="signupwithoutagreement"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- Tests.NegativeTestCases -->
+    </classes>
+  </test> <!-- C:/Users/PMLS/Desktop/DevelopersSalesForce Login Automation(failed) -->
+</suite> <!-- Failed suite [Functional and Negative Test Suite] -->

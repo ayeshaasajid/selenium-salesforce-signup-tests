@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../SELENIUM FOLDER" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../SELENIUM FOLDER" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../SELENIUM FOLDER" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../SELENIUM FOLDER" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/auto-service-annotations-1.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/byte-buddy-1.14.17-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/byte-buddy-1.14.17.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/checker-qual-3.42.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/commons-exec-1.4.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/error_prone_annotations-2.27.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/failsafe-3.3.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/failureaccess-1.0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/guava-33.2.1-jre.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/j2objc-annotations-3.0.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/jsr305-3.0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-api-1.39.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-api-incubator-1.39.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-context-1.39.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-exporter-logging-1.39.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-sdk-1.39.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-sdk-common-1.39.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-sdk-extension-autoconfigure-1.39.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-sdk-extension-autoconfigure-spi-1.39.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-sdk-logs-1.39.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-sdk-metrics-1.39.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-sdk-trace-1.39.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-semconv-1.25.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-api-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-chrome-driver-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-chromium-driver-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-devtools-v85-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-devtools-v124-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-devtools-v125-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-devtools-v126-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-edge-driver-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-firefox-driver-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-http-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-ie-driver-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-java-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-json-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-manager-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-os-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-remote-driver-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-safari-driver-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-support-4.22.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/testng-7.10.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/auto-service-annotations-1.1.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/byte-buddy-1.14.17-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/checker-qual-3.42.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/commons-exec-1.4.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/error_prone_annotations-2.27.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/failsafe-3.3.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/failureaccess-1.0.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/guava-33.2.1-jre-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/j2objc-annotations-3.0.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/jsr305-3.0.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-api-1.39.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-api-incubator-1.39.0-alpha-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-context-1.39.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-exporter-logging-1.39.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-sdk-1.39.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-sdk-common-1.39.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-sdk-extension-autoconfigure-1.39.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-sdk-extension-autoconfigure-spi-1.39.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-sdk-logs-1.39.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-sdk-metrics-1.39.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-sdk-trace-1.39.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/opentelemetry-semconv-1.25.0-alpha-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-api-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-chrome-driver-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-chromium-driver-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-devtools-v85-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-devtools-v124-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-devtools-v125-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-devtools-v126-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-edge-driver-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-firefox-driver-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-http-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-ie-driver-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-json-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-manager-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-os-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-remote-driver-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-safari-driver-4.22.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../SELENIUM FOLDER/selenium-support-4.22.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="testng-7.10.1" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../testng-7.10.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../slf4j-api-2.1.0-alpha1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../jcommander-2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../logback-classic-1.5.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../Selenium libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../Selenium libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../freemarker-2.3.34.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../rxjava-3.1.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../rxjava-reactive-streams-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="rxjava-reactive-streams-1.2.1" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../reactive-streams-1.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
