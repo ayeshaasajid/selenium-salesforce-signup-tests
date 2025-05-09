@@ -10,3 +10,6 @@
 
 # Mark test output files as binary (skip diffs)
 test-output/* binary
+
+*.html linguist-vendored
+test-output/* linguist-vendored
