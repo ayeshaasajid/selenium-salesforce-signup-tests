@@ -107,13 +107,11 @@ After test execution, reports can be found at:
 
 📁 test-output/ – Contains:
 
-index.html – TestNG HTML Report
+testng.xml – TestNG xml Report
 
 emailable-report.html – TestNG Emailable Report
 
-📁 reports/ – Contains:
-
-ExtentReport.html – Beautiful graphical test execution report with logs and screenshots
+ExtentReport.html – Beautiful graphical test execution report with logs.
 
 You can open these reports in a browser to review the results.
 
